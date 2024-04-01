@@ -1,5 +1,5 @@
-## Name:Prideesh M
-## Reg no:212223040154
+                                                                       Name:Prideesh M
+                                                                       Reg no:212223040154
 # Fitting Poisson  distribution
 # Aim : 
 
