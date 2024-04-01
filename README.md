@@ -1,6 +1,6 @@
                                                                        Name:Prideesh M
                                                                        Reg no:212223040154
-# Fitting Poisson  distribution
+# EX-2:Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
